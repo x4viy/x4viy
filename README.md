@@ -1,6 +1,6 @@
 ### x4viy
 <hr>
-Just a guy  building remarkable software.
+Building remarkable software.
 
  #### Technologies
  
