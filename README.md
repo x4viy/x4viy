@@ -1,7 +1,7 @@
 ### x4viy
 <hr>
 
-<center align="center">Building remarkable software.</center>
+<p align="center">Building remarkable software.</p>
 
  #### Technologies
  
